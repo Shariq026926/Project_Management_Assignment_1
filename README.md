@@ -20,12 +20,21 @@ This document describes how the project will be executed.
 
 ---
 
+---
+
+## Project Duration
+
+Start Date: January 28, 2025
+End Date:   June 25, 2025
+Duration:   6 months
+
+
 ## Team Roles
 
 The project is developed by a team of three members. A skills assessment was conducted with the team members and I, as project manager, I assign tasks and monitor progress.
 
 - **Shariq Haque** - Project Manager   
-  __Skills__: 
+  __Skills__: Project Coordination, Task Scheduling, Progress Tracking
   - Player abilities and enemy behavior  
 
 - Name 2  
@@ -39,11 +48,3 @@ The project is developed by a team of three members. A skills assessment was con
 ---
 
 
----
-
-## Project Duration
-
-```text
-Start Date: January 28, 2025
-End Date:   June 25, 2025
-Duration:   6 months
