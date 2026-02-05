@@ -1,19 +1,19 @@
 # Project Management Assignment #1
 # Expedition 60
 
-Indie Turn-Based RPG  
+Turn-Based Open World RPG  
 Project Management Plan
 
 ---
 
 ## Overview
 
-Expedition 60 is an indie, cinematic, turn-based role-playing game built around repeating expeditions into a world that resets every sixty days. Each expedition allows players to explore new areas, engage in tactical combat, and make decisions that affect future cycles.
+Expedition 60 is a cinematic, turn-based role-playing game built around exploration and a thrilling story to witness. The game will allow players to explore many different regions on the map while unfolding the secrets of the world and the Monolith which will be the final destination of the expedition. 
 
 The game focuses on:
-- Party-based turn-based combat
+- Party based turn-based combat
 - Strategic decision making
-- A repeating expedition loop
+- A diverse world to explore 
 - Narrative-driven exploration
 
 This document describes how the project will be executed.
@@ -22,9 +22,9 @@ This document describes how the project will be executed.
 
 ## Team Roles
 
-The project is developed by a team of three members. As project manager, I assign tasks and monitor progress.
+The project is developed by a team of three members. A skills assessment was conducted with the team members and I, as project manager, I assign tasks and monitor progress.
 
--   
+- Shariq Haque   
   - Gameplay systems and combat logic  
   - Player abilities and enemy behavior  
 
@@ -38,14 +38,6 @@ The project is developed by a team of three members. As project manager, I assig
 
 ---
 
-## Skills and Readiness
-
-A skills discussion was conducted during a 60-minute in-class session to assess:
-- Technical strengths
-- Availability during the project timeline
-- Role suitability
-
-The team demonstrated balanced skills across gameplay development, content creation, and quality assurance.
 
 ---
 
