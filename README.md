@@ -22,9 +22,9 @@ This document describes how the project will be executed.
 
 ## Project Timeline
 
-**Project Name** - Enquisitor
+**Project Name** - Peak
 
-**Development Team** - Shariq Haque, Shariq Haque, Shariq Haque 
+**Development Team** - Shariq Haque, Salman Imran, Name 1, Name 2 
 
 
 **Start Date**:  Febuary 5, 2026
