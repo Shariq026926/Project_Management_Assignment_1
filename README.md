@@ -89,4 +89,29 @@ The project is developed by a team of three members. A skills assessment was con
 
 ---
 
+## Phase 1: Requirements Review
 
+**Purpose**:
+- To review all software requirements and ensure everything needed to design and develop the game has been clearly defined
+
+**Input**:
+- Game requirements document
+
+This milestone focuses on understanding the problem and defining the scope of the project before any major development begins.
+
+__Tasks__:
+- Review functional requirements:
+  - Turn-based combat system
+  - Party mechanics and abilities
+  - Expedition cycle and progression rules
+
+- Review non-functional requirements:
+  - Performance expectations
+  - Save and load reliability
+  - User interface clarity
+- Identify missing, unclear, or conflicting requirements
+- Define and agree on the minimum viable product (MVP)
+- Obtain approval to move into the implementation phase
+
+Deadline:
+- March 27, 2026 
