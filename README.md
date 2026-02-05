@@ -23,7 +23,9 @@ This document describes how the project will be executed.
 ## Project Duration
 
 Start Date: January 28, 2025
+
 End Date:   June 25, 2025
+
 Duration:   6 months
 
 ---
