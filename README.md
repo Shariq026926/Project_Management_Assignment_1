@@ -99,26 +99,26 @@ The following tasks will be completed during the Requirements Review phase. Each
 
 **Tasks and Assignments**:
 
-- Review overall game concept and scope  
-  Assigned to: Shariq Haque (Project Manager)  
-  Due date: February 13, 2026  
+- **Review overall game concept and scope**  
+   - Assigned to: Shariq Haque (Project Manager)  
+   - Due date: February 13, 2026  
 
-- Review turn-based combat requirements  
-  Assigned to: Salman Imran  
-  Due date: February 20, 2026  
+- **Review turn-based combat requirements** 
+   - Assigned to: Salman Imran  
+   - Due date: February 20, 2026  
 
-- Review world design and narrative requirements  
-  Assigned to: Name 1  
-  Due date: February 20, 2026  
+- **Review world design and narrative requirements** 
+   - Assigned to: Name 1  
+   - Due date: February 20, 2026  
 
-- Review user interface and usability requirements  
-  Assigned to: Name 2  
-  Due date: February 27, 2026  
+- **Review user interface and usability requirements**
+   - Assigned to: Name 2  
+   - Due date: February 27, 2026  
 
-- Compile requirements document and confirm MVP scope  
-  Assigned to: Shariq Haque (Project Manager)  
-  Due date: March 6, 2026  
+- **Compile requirements document and confirm MVP scope** 
+   - Assigned to: Shariq Haque (Project Manager)  
+   - Due date: March 6, 2026  
 
-- Final requirements approval and sign-off  
-  Assigned to: Shariq Haque (Project Manager)  
-  Due date: March 27, 2026  
+- **Final requirements approval and sign-off**  
+   - Assigned to: Shariq Haque (Project Manager)  
+   - Due date: March 27, 2026  
