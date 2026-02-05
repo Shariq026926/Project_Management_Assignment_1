@@ -96,12 +96,7 @@ The project is developed by a team of three members. A skills assessment was con
 ## Phase 1: Requirements Review
 
 **Purpose**:
-- To review all software requirements and ensure everything needed to design and develop the game has been defined
-
-**Input**:
-- Game requirements document
-
-This phase focuses on understanding the problem and defining the scope of the project before any major development begins.
+- To review all software requirements and ensure everything needed to design and develop the game has been define. This phase focuses on understanding the problem and defining the scope of the project before any major development begins.
 
 __Tasks__:
 - Review functional requirements:
