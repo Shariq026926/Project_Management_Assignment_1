@@ -39,7 +39,8 @@ This document describes how the project will be executed.
 
 The project is developed by a team of three members. A skills assessment was conducted with the team members and I, as project manager, have assigned tasks and will monitor the progress.
 
-- **Shariq Haque** - Project Manager   
+- **Shariq Haque** - Project Manager
+    
   __Skills__:
   - Project Coordination
   - Task Scheduling
@@ -51,6 +52,7 @@ The project is developed by a team of three members. A skills assessment was con
   - Approve Deliverables
 
 - **Salman Imran** - Gameplay Mechanics Developer
+
   __Skills__:
   - Turn-based Combat Logic
   - Player Abilities
@@ -62,7 +64,8 @@ The project is developed by a team of three members. A skills assessment was con
   - Progression System
   - Enemy AI
  
-- **NAME 1** - World and Narrative Designer 
+- **NAME 1** - World and Narrative Designer
+  
   __Skills__:
   - Level Design 
   - Narrative Structuring 
@@ -74,7 +77,8 @@ The project is developed by a team of three members. A skills assessment was con
   - Story events
   - World Progression
  
-- **NAME 2** - UI and Documentation 
+- **NAME 2** - UI and Documentation
+  
   __Skills__:
   - User Interface Design 
   - Gameplay Testing 
