@@ -93,21 +93,32 @@ The project is developed by a team of three members. A skills assessment was con
 
 ---
 
-## Phase 1: Requirements Review
+## Phase 1: Responsibilities and Task Assignment
 
-**Purpose**:
-- To review all software requirements and ensure everything needed to design and develop the game has been define. This phase focuses on understanding the problem and defining the scope of the project before any major development begins.
+The following tasks will be completed during the Requirements Review phase. Each task has a clearly assigned owner and deadline.
 
-__Tasks__:
-- Review functional requirements:
-  - Turn-based combat system
-  - Party mechanics and abilities
-  - Exploration cycle and progression rules
+**Tasks and Assignments**:
 
-- Review non-functional requirements:
-  - Performance expectations
-  - Save and load reliability
-  - User interface clarity
-    
-**Deadline**: March 27, 2026 
+- Review overall game concept and scope  
+  Assigned to: Shariq Haque (Project Manager)  
+  Due date: February 13, 2026  
 
+- Review turn-based combat requirements  
+  Assigned to: Salman Imran  
+  Due date: February 20, 2026  
+
+- Review world design and narrative requirements  
+  Assigned to: Name 1  
+  Due date: February 20, 2026  
+
+- Review user interface and usability requirements  
+  Assigned to: Name 2  
+  Due date: February 27, 2026  
+
+- Compile requirements document and confirm MVP scope  
+  Assigned to: Shariq Haque (Project Manager)  
+  Due date: March 6, 2026  
+
+- Final requirements approval and sign-off  
+  Assigned to: Shariq Haque (Project Manager)  
+  Due date: March 27, 2026  
