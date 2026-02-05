@@ -25,7 +25,7 @@ This document describes how the project will be executed.
 The project is developed by a team of three members. A skills assessment was conducted with the team members and I, as project manager, I assign tasks and monitor progress.
 
 - **Shariq Haque** - Project Manager   
-  - Gameplay systems and combat logic  
+  __Skills__: 
   - Player abilities and enemy behavior  
 
 - Name 2  
