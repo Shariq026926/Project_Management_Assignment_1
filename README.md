@@ -37,7 +37,7 @@ This document describes how the project will be executed.
 
 ## Team Roles
 
-The project is developed by a team of three members. A skills assessment was conducted with the team members and I, as project manager, I assign tasks and monitor progress.
+The project is developed by a team of three members. A skills assessment was conducted with the team members and I, as project manager, have assigned tasks and will monitor the progress.
 
 - **Shariq Haque** - Project Manager   
   __Skills__:
