@@ -50,27 +50,42 @@ The project is developed by a team of three members. A skills assessment was con
   - Assign Tasks
   - Approve Deliverables
 
-- **Shariq Haque** - Project Manager   
+- **Salman Imran** - Gameplay Mechanics Developer
   __Skills__:
-  - Project Coordination
-  - Task Scheduling
-  - Progress Tracking
+  - Turn-based Combat Logic
+  - Player Abilities
+  - Enemy Behaviour 
+  - Game State Management
     
   __Roles__:
-  - Oversee the project
-  - Assign Tasks
-  - Approve Deliverables
+  - Implement Combat Mechanics
+  - Progression System
+  - Enemy AI
  
-- **Shariq Haque** - Project Manager   
+- **NAME 1** - World and Narrative Designer 
   __Skills__:
-  - Project Coordination
-  - Task Scheduling
-  - Progress Tracking
+  - Level Design 
+  - Narrative Structuring 
+  - Exploration flow
+  - Event Scripting 
     
   __Roles__:
-  - Oversee the project
-  - Assign Tasks
-  - Approve Deliverables
+  - Design areas
+  - Story events
+  - World Progression
+ 
+- **NAME 2** - UI and Documentation 
+  __Skills__:
+  - User Interface Design 
+  - Gameplay Testing 
+  - Debugging 
+  - Documentation  
+    
+  __Roles__:
+  - Build UI elements
+  - Test Gameplay 
+  - Find and fix bugs
+  - Maintain Documentation 
 
 ---
 
