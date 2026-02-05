@@ -54,7 +54,7 @@ The project is developed by a team of three members. A skills assessment was con
   - Assign Tasks
   - Approve Deliverables
  
-  - **Shariq Haque** - Project Manager   
+- **Shariq Haque** - Project Manager   
   __Skills__:
   - Project Coordination
   - Task Scheduling
