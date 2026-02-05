@@ -16,7 +16,7 @@ The game focuses on:
 - A repeating expedition loop
 - Narrative-driven exploration
 
-This document describes how the project will be planned, managed, reviewed, and delivered over a six-month period.
+This document describes how the project will be executed.
 
 ---
 
@@ -24,7 +24,7 @@ This document describes how the project will be planned, managed, reviewed, and 
 
 The project is developed by a team of three members. As project manager, I assign tasks and monitor progress.
 
-- Name 1  
+-   
   - Gameplay systems and combat logic  
   - Player abilities and enemy behavior  
 
