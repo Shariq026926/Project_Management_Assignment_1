@@ -23,10 +23,14 @@ This document describes how the project will be executed.
 ## Project Timeline
 
 **Project Name** - Enquisitor
+
 **Development Team** - Shariq Haque, Shariq Haque, Shariq Haque 
 
+
 **Start Date**:  Febuary 5, 2026
+
 **End Date**:  July 3, 2026
+
 **Duration**:   6 months
 
 ---
