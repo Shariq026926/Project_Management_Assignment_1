@@ -92,7 +92,7 @@ The project is developed by a four-member team. A skills assessment was conducte
   - Develop progression and ability systems
   - Design and refine enemy AI behavior
  
-- **NAME 1** - World and Narrative Designer
+- **Minh Ngoc** - World and Narrative Designer
   
   __Skills__:
   - Level Design with unity 
@@ -105,7 +105,7 @@ The project is developed by a four-member team. A skills assessment was conducte
   - Create story events and narrative flow
   - Manage exploration and world progression
  
-- **NAME 2** - UI and Documentation
+- **Ishav Manav** - UI and Documentation
   
   __Skills__:
   - Unity UI system (menus and HUDs) 
