@@ -141,7 +141,8 @@ This phase focuses on developing a playable prototype and evaluating the technic
   *Assigned to*: Salman Imran  
   *Due date*: May 1, 2026  
 
-- **Design and implement exploration areas and narrative events** 
+- **Design and implement exploration areas and narrative events**
+  
   *Assigned to*: Name 1  
   *Due date*: May 15, 2026  
 
