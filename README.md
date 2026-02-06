@@ -1,28 +1,27 @@
 # Project Management Assignment #1
 # Expedition 60
 
-Turn-Based Open World RPG  
-Project Management Plan
+## Turn-Based Open World RPG – Project Management Plan
 
 ---
 
-## Overview
+## Project Overview
 
-Expedition 60 is a cinematic, turn-based role-playing game built around exploration and a thrilling story to witness. The game will allow players to explore many different regions on the map while unfolding the secrets of the world and the Monolith which will be the final destination of the expedition. 
+Expedition 60 is a cinematic, turn-based role-playing game focused on exploration, strategy, and narrative discovery. Players will travel through diverse regions, uncover the history of the world, and progress toward the Monolith, the final destination of the expedition.
 
 The game focuses on:
 - Party based turn-based combat
 - Strategic decision making
-- A diverse world to explore 
-- Narrative-driven exploration
+- Open-World Exploration
+- Narrative-driven progression 
 
-This document describes how the project will be executed.
+This document outlines how the project will be planned, managed, and delivered over a six-month development period.
 
 ---
 
 ## Project Timeline
 
-**Project Name** - Peak
+**Project Name** - Expedition 60
 
 **Development Team** - Shariq Haque, Salman Imran, Name 1, Name 2 
 
@@ -33,11 +32,32 @@ This document describes how the project will be executed.
 
 **Duration**:   6 months
 
+- The project is divided into three structured phases:
+  - Requirments Review
+  - Implementation and Design Review
+  - Final Delivery
+
+Each phase has clearly assigned tasks, owners, and deadlines to ensure steady progress.
+
+---
+
+## Technology Stack & Game Engine
+
+The project will be developed using a modern game engine and supporting tools suitable for turn-based role-playing games.
+
+**Game Engine**: Unity
+**Primary Language**: C#
+**Version Control**: Git & GitHub
+**Documentation**: Markdown (README)
+**Testing & Debugging**: Unity Play Mode testing, in-engine debugging tools
+
+Unity was selected due to its strong support for turn-based mechanics, rapid prototyping, and cross-platform development capabilities.
+
 ---
 
 ## Team Roles
 
-The project is developed by a team of three members. A skills assessment was conducted with the team members and I, as project manager, have assigned tasks and will monitor the progress.
+The project is developed by a four-member team. A skills assessment was conducted to evaluate both technical and domain expertise. Based on this assessment, roles and responsibilities were assigned. As project manager, I oversee progress, assign tasks, and ensure milestones are met on schedule.
 
 - **Shariq Haque** - Project Manager
     
@@ -45,52 +65,54 @@ The project is developed by a team of three members. A skills assessment was con
   - Project Coordination
   - Task Scheduling
   - Progress Tracking
+  - GitHub (version control)
+  - Project Document 
     
   __Roles__:
-  - Oversee the project
+  - Oversee the full project lifecycle 
   - Assign Tasks
   - Approve Deliverables
+  - Ensure timeline and quality alignment 
 
 - **Salman Imran** - Gameplay Mechanics Developer
 
   __Skills__:
-  - Turn-based Combat Logic
-  - Player Abilities
+  - Game logic programming (C, C++)
+  - Turn-based combat systems
   - Enemy Behaviour 
   - Game State Management
+  - Debugging and performance testing
     
   __Roles__:
-  - Implement Combat Mechanics
-  - Progression System
-  - Enemy AI
+  - Implement core combat mechanics
+  - Develop progression and ability systems
+  - Design and refine enemy AI behavior
  
 - **NAME 1** - World and Narrative Designer
   
   __Skills__:
-  - Level Design 
-  - Narrative Structuring 
-  - Exploration flow
-  - Event Scripting 
+  - Level Design with unity 
+  - Narrative design and event scripting 
+  - World progression planning
+  - Game design documentation
     
   __Roles__:
-  - Design areas
-  - Story events
-  - World Progression
+  - Design world areas and regions
+  - Create story events and narrative flow
+  - Manage exploration and world progression
  
 - **NAME 2** - UI and Documentation
   
   __Skills__:
-  - User Interface Design 
-  - Gameplay Testing 
-  - Debugging 
-  - Documentation  
+  - Unity UI system (menus and HUDs) 
+  - Gameplay testing and debugging
+  - Technical documentation using Markdown
     
   __Roles__:
-  - Build UI elements
-  - Test Gameplay 
-  - Find and fix bugs
-  - Maintain Documentation 
-
+  - Build user interface elements
+  - Test gameplay and identify bugs
+  - Maintain project documentation
+   
 ---
 
 ## Phase 1: Requirments Review 
