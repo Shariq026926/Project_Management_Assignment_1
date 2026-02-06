@@ -158,14 +158,14 @@ This phase focuses on developing a playable prototype and evaluating the technic
   *Assigned to*: Shariq Haque (Project Manager)  
   *Due date*: June 6, 2026
 
-  ---
+---
 
-  ## Phase 3: Final Delivery
+## Phase 3: Final Delivery
 
-  ### Purpose
-  - To deliver the final version of the game and all supporting documentation for evaluation and demonstration
+### Purpose:
+- To deliver the final version of the game and all supporting documentation for evaluation and demonstration
  
-  ### Tasks and Assignments
+### Tasks and Assignments:
 
 - **Finalize gameplay mechanics and balance**  
   *Assigned to*: Salman Imran  
