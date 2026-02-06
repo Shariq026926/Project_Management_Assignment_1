@@ -214,6 +214,10 @@ This phase focuses on developing a playable prototype and evaluating the technic
 
 ---
 
+## Project Timeline: https://github.com/users/Shariq026926/projects/2/views/1
+
+---
+
 ## Reflection
 
 ### Project Quality
