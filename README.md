@@ -192,13 +192,13 @@ This phase focuses on developing a playable prototype and evaluating the technic
 ## Reflection
 
 ### Project Quality
-Expedition 60 is a well-scoped project that balances creative ambition with realistic constraints. The phased milestone structure supports accountability and steady progress throughout the development cycle.
+Expedition 60 is a well-scoped project that balances creative ambition with realism. The phase structure supports steady progress throughout the development cycle.
 
 ### Connection to User Needs
 The project focuses on strategic gameplay, exploration, and replayability, which aligns with player expectations for turn-based role-playing games. Each development phase validates that the game remains engaging and functional.
 
 ### Difficulty Assessment
-The project presents moderate difficulty due to the complexity of turn-based combat systems and narrative integration. However, the six-month timeline and clear task assignments make the project achievable.
+The project presents moderate difficulty due to the complexity of turn-based combat systems and narrative. However, the six-month timeline and clear task assignments make the project achievable.
 
 ### Overall Assessment
 This project effectively demonstrates project management principles including planning, coordination, task assignment, and milestone-based delivery. It provides practical experience in managing a team-driven software project from concept to final delivery.
