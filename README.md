@@ -123,7 +123,6 @@ The following tasks will be completed while reviewing the requirments. Each task
    - *Assigned to*: Shariq Haque (Project Manager)  
    - *Due date*: March 27, 2026
  
----
 
 ## Phase 2: Implementation and Design Review
 
@@ -158,7 +157,6 @@ This phase focuses on developing a playable prototype and evaluating the technic
   *Assigned to*: Shariq Haque (Project Manager)  
   *Due date*: June 6, 2026
 
----
 
 ## Phase 3: Final Delivery
 
