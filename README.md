@@ -199,4 +199,4 @@ The project focuses on strategic gameplay, exploration, and replayability, which
 The project presents moderate difficulty due to the complexity of turn-based combat systems and narrative. However, the six-month timeline and clear task assignments make the project achievable.
 
 ### Overall Assessment
-This project effectively demonstrates project management principles including planning, coordination, task assignment, and milestone-based delivery. It provides practical experience in managing a team-driven software project from concept to final delivery.
+This project effectively demonstrates project management principles including planning, coordination, task assignment, and delivery. It provides practical experience in managing a team-driven software project from concept to final delivery.
