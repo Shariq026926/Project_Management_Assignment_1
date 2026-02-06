@@ -23,7 +23,7 @@ This document outlines how the project will be planned, managed, and delivered o
 
 **Project Name** - Expedition 60
 
-**Development Team** - Shariq Haque, Salman Imran, Name 1, Name 2 
+**Development Team** - Shariq Haque, Salman Imran, Minh Ngoc, Ishav Mahajav
 
 
 **Start Date**:  Febuary 5, 2026
@@ -105,7 +105,7 @@ The project is developed by a four-member team. A skills assessment was conducte
   - Create story events and narrative flow
   - Manage exploration and world progression
  
-- **Ishav Manav** - UI and Documentation
+- **Ishav Mahajav** - UI and Documentation
   
   __Skills__:
   - Unity UI system (menus and HUDs) 
@@ -134,11 +134,11 @@ The following tasks will be completed while reviewing the requirments. Each task
    - *Due date*: February 20, 2026  
 
 - **Review world design and narrative requirements** 
-   - *Assigned to*: Name 1  
+   - *Assigned to*: Minh Ngoc  
    - *Due date*: February 20, 2026  
 
 - **Review user interface and usability requirements**
-   - *Assigned to*: Name 2  
+   - *Assigned to*: Ishav Mahajav  
    - *Due date*: February 27, 2026  
 
 - **Compile requirements document and confirm MVP scope** 
@@ -169,15 +169,15 @@ This phase focuses on developing a playable prototype and evaluating the technic
   *Due date*: May 1, 2026  
 
 - **Design and implement exploration areas and narrative events**  
-  *Assigned to*: Name 1  
+  *Assigned to*: Minh Ngoc  
   *Due date*: May 15, 2026  
 
 - **Build user interface elements and menus**  
-  *Assigned to*: Name 2  
+  *Assigned to*: Ishav Mahajav  
   *Due date*: May 22, 2026  
 
 - **Conduct gameplay testing and identify design issues**  
-  *Assigned to*: Name 2  
+  *Assigned to*: Ishav Mahajav  
   *Due date*: May 29, 2026  
 
 - **Review prototype, document issues, and approve design**  
@@ -197,15 +197,15 @@ This phase focuses on developing a playable prototype and evaluating the technic
   *Due date*: June 17, 2026  
 
 - **Complete world content and narrative elements**  
-  *Assigned to*: Name 1  
+  *Assigned to*: Minh Ngoc  
   *Due date*: June 17, 2026  
 
 - **Final user interface refinements and full gameplay testing**  
-  *Assigned to*: Name 2  
+  *Assigned to*: Ishav Mahajav  
   *Due date*: June 24, 2026  
 
 - **Prepare final documentation and user guide**  
-  *Assigned to*: Name 2  
+  *Assigned to*: Ishav Mahajav  
   *Due date*: June 27, 2026  
 
 - **Conduct final review and approve submission**  
