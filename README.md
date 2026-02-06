@@ -46,9 +46,13 @@ Each phase has clearly assigned tasks, owners, and deadlines to ensure steady pr
 The project will be developed using a modern game engine and supporting tools suitable for turn-based role-playing games.
 
 **Game Engine**: Unity
+
 **Primary Language**: C#
+
 **Version Control**: Git & GitHub
+
 **Documentation**: Markdown (README)
+
 **Testing & Debugging**: Unity Play Mode testing, in-engine debugging tools
 
 Unity was selected due to its strong support for turn-based mechanics, rapid prototyping, and cross-platform development capabilities.
@@ -145,7 +149,8 @@ The following tasks will be completed while reviewing the requirments. Each task
    - *Assigned to*: Shariq Haque (Project Manager)  
    - *Due date*: March 27, 2026
  
-
+---
+ 
 ## Phase 2: Implementation and Design Review
 
 ### Purpose:
