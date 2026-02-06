@@ -156,4 +156,34 @@ This phase focuses on developing a playable prototype and evaluating the technic
 
 - **Review prototype, document issues, and approve design**  
   *Assigned to*: Shariq Haque (Project Manager)  
-  *Due date*: June 6, 2026  
+  *Due date*: June 6, 2026
+
+  ---
+
+  ## Phase 3: Final Delivery
+
+  ### Purpose
+  - To deliver the final version of the game and all supporting documentation for evaluation and demonstration
+ 
+  ### Tasks and Assignments
+
+- **Finalize gameplay mechanics and balance**  
+  *Assigned to*: Salman Imran  
+  *Due date*: June 17, 2026  
+
+- **Complete world content and narrative elements**  
+  *Assigned to*: Name 1  
+  *Due date*: June 17, 2026  
+
+- **Final user interface refinements and full gameplay testing**  
+  *Assigned to*: Name 2  
+  *Due date*: June 24, 2026  
+
+- **Prepare final documentation and user guide**  
+  *Assigned to*: Name 2  
+  *Due date*: June 27, 2026  
+
+- **Conduct final review and approve submission**  
+  *Assigned to*: Shariq Haque (Project Manager)  
+  *Due date*: July 3, 2026  
+
