@@ -97,37 +97,37 @@ The project is developed by a team of three members. A skills assessment was con
 
 The following tasks will be completed while reviewing the requirments. Each task has a clearly assigned owner and deadline.
 
-**Tasks and Assignments**:
+### Tasks and Assignments:
 
 - **Review overall game concept and scope**  
-   - Assigned to: Shariq Haque (Project Manager)  
-   - Due date: February 13, 2026  
+   - *Assigned to*: Shariq Haque (Project Manager)  
+   - *Due date*: February 13, 2026  
 
 - **Review turn-based combat requirements** 
-   - Assigned to: Salman Imran  
-   - Due date: February 20, 2026  
+   - *Assigned to*: Salman Imran  
+   - *Due date*: February 20, 2026  
 
 - **Review world design and narrative requirements** 
-   - Assigned to: Name 1  
-   - Due date: February 20, 2026  
+   - *Assigned to*: Name 1  
+   - *Due date*: February 20, 2026  
 
 - **Review user interface and usability requirements**
-   - Assigned to: Name 2  
-   - Due date: February 27, 2026  
+   - *Assigned to*: Name 2  
+   - *Due date*: February 27, 2026  
 
 - **Compile requirements document and confirm MVP scope** 
-   - Assigned to: Shariq Haque (Project Manager)  
-   - Due date: March 6, 2026  
+   - *Assigned to*: Shariq Haque (Project Manager)  
+   - *Due date*: March 6, 2026  
 
 - **Final requirements approval and sign-off**  
-   - Assigned to: Shariq Haque (Project Manager)  
-   - Due date: March 27, 2026
+   - *Assigned to*: Shariq Haque (Project Manager)  
+   - *Due date*: March 27, 2026
  
 ---
 
-Phase 2: Implementation and Design Review
+## Phase 2: Implementation and Design Review
 
-**Purpose**:
+### Purpose:
 - To review the software design and initial implementation and verify that the design meets the approved requirements and solves the intended problem
 
 This phase focuses on developing a playable prototype and evaluating the technical and design decisions made during implementation.
@@ -135,25 +135,25 @@ This phase focuses on developing a playable prototype and evaluating the technic
 ### Tasks:
 
 - **Implement core turn-based combat mechanics**  
-  Assigned to: Salman Imran  
-  Due date: April 17, 2026  
+  *Assigned to*: Salman Imran  
+  *Due date*: April 17, 2026  
 
 - **Develop player abilities and progression systems**  
-  Assigned to: Salman Imran  
-  Due date: May 1, 2026  
+  *Assigned to*: Salman Imran  
+  *Due date*: May 1, 2026  
 
 - **Design and implement exploration areas and narrative events** 
-  Assigned to: Name 1  
-  Due date: May 15, 2026  
+  *Assigned to*: Name 1  
+  *Due date*: May 15, 2026  
 
 - **Build user interface elements and menus**  
-  Assigned to: Name 2  
-  Due date: May 22, 2026  
+  *Assigned to*: Name 2  
+  *Due date*: May 22, 2026  
 
 - **Conduct gameplay testing and identify design issues**  
-  Assigned to: Name 2  
-  Due date: May 29, 2026  
+  *Assigned to*: Name 2  
+  *Due date*: May 29, 2026  
 
 - **Review prototype, document issues, and approve design**  
-  Assigned to: Shariq Haque (Project Manager)  
-  Due date: June 6, 2026  
+  *Assigned to*: Shariq Haque (Project Manager)  
+  *Due date*: June 6, 2026  
