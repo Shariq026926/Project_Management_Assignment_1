@@ -95,7 +95,7 @@ The project is developed by a team of three members. A skills assessment was con
 
 ## Phase 1: Responsibilities and Task Assignment
 
-The following tasks will be completed during the Requirements Review phase. Each task has a clearly assigned owner and deadline.
+The following tasks will be completed while reviewing the requirments. Each task has a clearly assigned owner and deadline.
 
 **Tasks and Assignments**:
 
@@ -121,4 +121,39 @@ The following tasks will be completed during the Requirements Review phase. Each
 
 - **Final requirements approval and sign-off**  
    - Assigned to: Shariq Haque (Project Manager)  
-   - Due date: March 27, 2026  
+   - Due date: March 27, 2026
+ 
+---
+
+Phase 2: Implementation and Design Review
+
+**Purpose**:
+- To review the software design and initial implementation and verify that the design meets the approved requirements and solves the intended problem
+
+This phase focuses on developing a playable prototype and evaluating the technical and design decisions made during implementation.
+
+### Tasks:
+
+- **Implement core turn-based combat mechanics**  
+  Assigned to: Salman Imran  
+  Due date: April 17, 2026  
+
+- **Develop player abilities and progression systems**  
+  Assigned to: Salman Imran  
+  Due date: May 1, 2026  
+
+- **Design and implement exploration areas and narrative events** 
+  Assigned to: Name 1  
+  Due date: May 15, 2026  
+
+- **Build user interface elements and menus**  
+  Assigned to: Name 2  
+  Due date: May 22, 2026  
+
+- **Conduct gameplay testing and identify design issues**  
+  Assigned to: Name 2  
+  Due date: May 29, 2026  
+
+- **Review prototype, document issues, and approve design**  
+  Assigned to: Shariq Haque (Project Manager)  
+  Due date: June 6, 2026  
